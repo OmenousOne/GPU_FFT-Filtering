@@ -13,7 +13,6 @@ use FFT transforms filter seismic data.I have designed this program to use an
 FFT to transform the data to frequency and then only keep data between a user 
 supplied minimum and maximum hertz range. Then transform the data back and 
 write out the new data. 
-
 	
 ## Data:
 There are a multitude of formats that seismic data is recorded in, such
