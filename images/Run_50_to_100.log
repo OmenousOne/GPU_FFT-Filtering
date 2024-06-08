@@ -1,0 +1,64 @@
+CUDA    Device name: NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+GPU Count: (1)
+Core Count: (16)
+ARCHITECTURE -> little endian (0)
+Input File: ../data/Line_1_IEEE_Float_LE.sgy
+Output File: output_50_100.sgy
+Minimum Frequency: 50
+Maximum Frequency: 100
+Simultaneous Traces: 10000
+
+Open for read: ../data/Line_1_IEEE_Float_LE.sgy
+EBCDIC Header Read 3200 Bytes
+Binary Header Read 400 Bytes
+Ebcdic Header: EBCDIC
+Revision < 2.0 Detected
+Binary Header: IBM ORDER
+Num Traces:      -31073 (FFFF869F)  bytes 3213-3214
+Num Aux Tr:         0 (0000)  bytes 3215-3216
+Sample Interval: 2000 (07D0)  bytes 3217-3218
+Num Samples:     1501 (05DD)  bytes 3221-3222
+Revision:  ( 0)     0 (0000)  bytes 3297-3300
+Format:            11 (000B)  bytes 3225-3226
+
+Calculated Number of Traces:          2820
+Open for write: output_50_100.sgy
+
+First/Last 8 data samples for QC:
+Input 0: 4.49441051
+Input 1: 6.59748077
+Input 2: 1.05115414
+Input 3: -5.72130013
+Input 4: -5.60891533
+Input 5: 1.45248413
+Input 6: 7.15355396
+Input 7: 4.57948112
+Input 15009992: 0.00000000
+Input 15009993: 0.00000000
+Input 15009994: 0.00000000
+Input 15009995: 0.00000000
+Input 15009996: 0.00000000
+Input 15009997: 0.00000000
+Input 15009998: 0.00000000
+Input 15009999: 0.00000000
+#### gufftfilt_32f_i   (60040000)  17611680/17611680
+Output 0: 19214.82031250
+Output 1: 27434.47851562
+Output 2: 20398.21093750
+Output 3: 5081.96093750
+Output 4: -6893.46484375
+Output 5: -10853.37500000
+Output 6: -11840.56250000
+Output 7: -15484.06640625
+Output 15009992: 0.00000000
+Output 15009993: 0.00000000
+Output 15009994: 0.00000000
+Output 15009995: 0.00000000
+Output 15009996: 0.00000000
+Output 15009997: 0.00000000
+Output 15009998: 0.00000000
+Output 15009999: 0.00000000
+
+Total Traces Processed: 2820
+Total Samples Processed (float numbers): 4232820
+Elapsed Time: 47010962 microseconds
