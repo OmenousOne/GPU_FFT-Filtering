@@ -1,4 +1,4 @@
-# GPU FFT Filtering 
+# GPU FFT Filtering Seismic Data 
 
 ## Background:
 Seismic Processing relies on sound wave source being set off, (dynamite,
